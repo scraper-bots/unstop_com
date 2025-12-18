@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "WebFetch(domain:unstop.com)",
-      "Bash(python scrape_competitions.py:*)"
+      "Bash(python scrape_competitions.py:*)",
+      "Bash(ls:*)",
+      "Bash(pip install:*)",
+      "Bash(python create_charts.py:*)"
     ]
   }
 }
