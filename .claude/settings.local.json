@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:unstop.com)"
+      "WebFetch(domain:unstop.com)",
+      "Bash(python scrape_competitions.py:*)"
     ]
   }
 }
