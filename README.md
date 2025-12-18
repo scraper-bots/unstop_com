@@ -6,7 +6,7 @@
 
 ## Overview Dashboard
 
-![Summary Dashboard](charts/00_summary_dashboard.png)
+![Summary Dashboard](charts\00_summary_dashboard.png)
 
 ### Key Metrics at a Glance
 
